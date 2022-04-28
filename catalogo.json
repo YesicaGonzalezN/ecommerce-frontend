@@ -1,0 +1,106 @@
+[
+    {
+        "product": "Materno",
+        "product-des": "Bolso materno de Ecocuero",
+        "price": "$3100",
+        "image": "https://ibb.co/R0KNNx9",
+        "category": "Bolsos",
+        "id": "1"
+    },
+    {
+        "product": "Berlin",
+        "product-des": "Bolso Berlin de Ecocuero",
+        "price": "$2700",
+        "image": "https://ibb.co/n0XL22n",
+        "category": "Bolsos",
+        "id": "2"
+    },
+    {
+        "product": "Marinero",
+        "product-des": "Bolso Marinero de Ecocuero",
+        "price": "$2750",
+        "image": "https://ibb.co/bRmv2WJ",
+        "category": "Bolsos",
+        "id": "3"
+    },
+    {
+        "product": "Berlin Charol",
+        "product-des": "Bolso Berlin de Charol",
+        "price": "$2700",
+        "image": "https://ibb.co/2ZJYtVV",
+        "category": "Bolsos",
+        "id": "4"
+    },
+    {
+        "product": "Olimpia",
+        "product-des": "Morral Olimpia de Ecocuero",
+        "price": "$2750",
+        "image": "https://ibb.co/mCx61qs",
+        "category": "Bolsos",
+        "id": "5"
+    },
+    {
+        "product": "Billetera",
+        "product-des": "Billetera de Hombre",
+        "price": "$1700",
+        "image": "https://ibb.co/4StLRLK",
+        "category": "Hombre",
+        "id": "6"
+    },
+    {
+        "product": "Savage",
+        "product-des": "Billetera Savage de Ecocuero",
+        "price": "$1850",
+        "image": "https://ibb.co/sKxWMpV",
+        "category": "Accesorios",
+        "id": "7"
+    },
+    {
+        "product": "Pocket",
+        "product-des": "Billetera Pocket de Ecocuero",
+        "price": "$1700",
+        "image": "https://ibb.co/NCZ42vb",
+        "category": "Accesorios",
+        "id": "8"
+    },
+    {
+        "product": "Olimpo",
+        "product-des": "Morral Olimpo de Ecocuero",
+        "price": "$2300",
+        "image": "https://ibb.co/bRFj47L",
+        "category": "Hombre",
+        "id": "9"
+    },
+    {
+        "product": "Botinero",
+        "product-des": "Morral Botinero de Ecocuero",
+        "price": "$2500",
+        "image": "https://ibb.co/JQGmd1W",
+        "category": "Bolsos",
+        "id": "10"
+    },
+    {
+        "product": "Geriba",
+        "product-des": "Mochila Geriba de Ecocuero",
+        "price": "$3100",
+        "image": "https://ibb.co/qN3JKjs",
+        "category": "Mochilas",
+        "id": "11"
+    },
+    {
+        "product": "Cozumel",
+        "product-des": "Mochila Cozumel de Ecocuero",
+        "price": "$3700",
+        "image": "https://ibb.co/Ycs8P6h",
+        "category": "Mochilas",
+        "id": "12"
+    },
+    {
+        "product": "Formentera",
+        "product-des": "Mochila Formentera de Ecocuero",
+        "price": "$3400",
+        "image": "https://ibb.co/nrpB9YY",
+        "category": "Mochilas",
+        "id": "13"
+    }
+]
