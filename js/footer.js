@@ -6,7 +6,7 @@ const createFooter = () => {
             <h3 class="logo-footer">Juana's Bags</h3>
             <h4>Contacto</h4>
             <p><strong>Teléfono: </strong>+54 11 2157-2623</p>
-            <p><strong>Horario: </strong>10:00 a 18:00, Lunes a Viernes</p>
+            <p><strong>Horario: </strong>10:00hs a 18:00hs, Lunes a Viernes</p>
         </div>
 
         <div class="info">
