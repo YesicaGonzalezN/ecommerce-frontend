@@ -13,14 +13,13 @@ const createNav = () => {
                 </div>
             </div>
             <div class="nav-item">
-            <a>
+            <a href="/signup.html">
             <i id="user-img" class="fa-solid fa-user user"></i>
             </a>   
             <a href="/carrito.html"><i class="fa-solid fa-bag-shopping carrito1"></i></a>
             </div>
         </div>
             <ul class="items-categorias">
-                <li class="categorias"><a href="../accesorios.html">Productos</li>
                 <li class="categorias"><a href="../bolsos.html">Bolsos</a></li>
                 <li class="categorias"><a href="../mochilas.html">Mochilas</a></li>
                 <li class="categorias"><a href="../hombre.html">Hombre</a></li>
@@ -30,3 +29,10 @@ const createNav = () => {
 }
 
 createNav();
+
+// const inputSearch = document.querySelector(".search-input");
+
+// function buscador_interno() {
+//     filter = inputSearch.value.toUpperCase();
+//     li = 
+// }
